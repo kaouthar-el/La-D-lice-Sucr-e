@@ -51,8 +51,8 @@ sweet-confections-showcase/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/sweet-confections-showcase.git
-   cd sweet-confections-showcase
+   git clone https://github.com/your-username/La-D-lice-Sucr-e.git
+   cd La-D-lice-Sucr-e.git
    ```
 
 2. **Install dependencies**
